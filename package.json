@@ -15,7 +15,7 @@
             {
                 "label": "Material",
                 "uiTheme": "vs-dark",
-                "path": "./themes/material-operator.tmTheme"
+                "path": "./themes/material.tmTheme"
             }
         ]
     },
