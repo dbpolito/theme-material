@@ -70,7 +70,6 @@
         <string>#FF8A80</string>
       </dict>
     </dict>
-    <!--TODO: Consider using a different color for numbers-->
     <dict>
       <key>scope</key>
       <string>constant.numeric</string>
@@ -118,7 +117,7 @@
     </dict>
     <dict>
       <key>scope</key>
-      <string>entity.other.attribute-name.html</string>
+      <string>entity.other.attribute-name.html, entity.other.attribute-name.js, entity.other.attribute-name.xml</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -484,5 +483,7 @@
       </dict>
     </dict>
   </array>
+  <key>uuid</key>
+  <string>82CCD69C-F1B1-4529-B39E-780F91F07006</string>
 </dict>
 </plist>
