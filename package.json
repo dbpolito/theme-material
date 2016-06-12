@@ -2,7 +2,7 @@
     "name": "theme-material",
     "displayName": "Material",
     "description": "A material design theme.",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "publisher": "bcmarinacci",
     "engines": {
         "vscode": "^1.0.0"
