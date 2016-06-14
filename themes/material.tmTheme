@@ -5,7 +5,7 @@
   <key>comment</key>
   <string>Benjamin Marinacci https://github.com/bcmarinacci</string>
   <key>name</key>
-  <string>Material</string>
+  <string>Material Operator</string>
   <key>settings</key>
   <array>
     <dict>
@@ -16,7 +16,7 @@
         <key>caret</key>
         <string>#FFC400</string>
         <key>foreground</key>
-        <string>#CCCCCC</string>
+        <string>#DDDDDD</string>
         <key>invisibles</key>
         <string>#65737E</string>
         <key>lineHighlight</key>
@@ -81,6 +81,15 @@
     </dict>
     <dict>
       <key>scope</key>
+      <string>constant.character</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#FF8A80</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>scope</key>
       <string>constant.regexp</string>
       <key>settings</key>
       <dict>
@@ -103,7 +112,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#FFE57F</string>
+        <string>#80D8FF</string>
       </dict>
     </dict>
     <dict>
@@ -112,7 +121,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#FFE57F</string>
+        <string>#80D8FF</string>
       </dict>
     </dict>
     <dict>
@@ -121,7 +130,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#FFE57F</string>
+        <string>#80D8FF</string>
       </dict>
     </dict>
     <dict>
@@ -157,7 +166,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#80D8FF</string>
+        <string>#FFE57F</string>
       </dict>
     </dict>
     <dict>
@@ -193,7 +202,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#FFE57F</string>
+        <string>#80D8FF</string>
       </dict>
     </dict>
     <dict>
@@ -202,7 +211,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#B388FF</string>
+        <string>#8C9EFF</string>
       </dict>
     </dict>
     <dict>
@@ -213,7 +222,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#80D8FF</string>
+        <string>#FFE57F</string>
       </dict>
     </dict>
     <dict>
@@ -222,7 +231,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#80D8FF</string>
+        <string>#FFE57F</string>
       </dict>
     </dict>
     <dict>
@@ -240,7 +249,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#B388FF</string>
+        <string>#8C9EFF</string>
       </dict>
     </dict>
     <dict>
@@ -249,7 +258,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#80D8FF</string>
+        <string>#FFE57F</string>
       </dict>
     </dict>
     <dict>
@@ -258,7 +267,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#80D8FF</string>
+        <string>#FFE57F</string>
       </dict>
     </dict>
     <dict>
@@ -267,7 +276,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#80D8FF</string>
+        <string>#FFE57F</string>
       </dict>
     </dict>
     <dict>
@@ -276,7 +285,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#80D8FF</string>
+        <string>#FFE57F</string>
       </dict>
     </dict>
     <dict>
@@ -285,7 +294,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#80D8FF</string>
+        <string>#FFE57F</string>
       </dict>
     </dict>
     <dict>
@@ -330,7 +339,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#80D8FF</string>
+        <string>#FFE57F</string>
       </dict>
     </dict>
     <dict>
@@ -339,7 +348,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#80D8FF</string>
+        <string>#8C9EFF</string>
       </dict>
     </dict>
     <dict>
@@ -348,7 +357,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#B388FF</string>
+        <string>#8C9EFF</string>
       </dict>
     </dict>
     <dict>
@@ -357,7 +366,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#B388FF</string>
+        <string>#8C9EFF</string>
       </dict>
     </dict>
     <dict>
@@ -366,7 +375,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#B388FF</string>
+        <string>#8C9EFF</string>
       </dict>
     </dict>
     <dict>
@@ -375,7 +384,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#B388FF</string>
+        <string>#8C9EFF</string>
       </dict>
     </dict>
     <!--<dict>
@@ -386,7 +395,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#8C9EFF</string>
+        <string>#EA80FC</string>
       </dict>
     </dict>-->
     <dict>
@@ -395,7 +404,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#80D8FF</string>
+        <string>#FFE57F</string>
       </dict>
     </dict>
     <dict>
@@ -404,7 +413,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#80D8FF</string>
+        <string>#FFE57F</string>
       </dict>
     </dict>
     <dict>
@@ -413,7 +422,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#B388FF</string>
+        <string>#8C9EFF</string>
       </dict>
     </dict>
     <dict>
@@ -424,29 +433,29 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#FFE57F</string>
+        <string>#80D8FF</string>
       </dict>
     </dict>
     <dict>
       <key>name</key>
       <string>Type declaration and references</string>
       <key>scope</key>
-      <string>meta.type.name, meta.return.type, meta.return-type, meta.cast, meta.type.annotation, support.type, entity.name.class, entity.name.type, storage.type.cs, storage.type.java</string>
+      <string>meta.return.type, meta.return-type, meta.cast, meta.type.annotation, support.type, entity.name.type, storage.type.cs, storage.type.java</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#8C9EFF</string>
+        <string>#BDBDBD</string>
       </dict>
     </dict>
     <dict>
       <key>name</key>
       <string>Function declarations</string>
       <key>scope</key>
-      <string>entity.name.function, entity.name.method</string>
+      <string>entity.name.function, entity.name.method, entity.name.class</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#FF80AB</string>
+        <string>#EA80FC</string>
       </dict>
     </dict>
     <dict>
@@ -457,7 +466,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#FFE57F</string>
+        <string>#80D8FF</string>
       </dict>
     </dict>
     <dict>
@@ -468,7 +477,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#FFE57F</string>
+        <string>#80D8FF</string>
       </dict>
     </dict>
     <dict>
@@ -484,6 +493,6 @@
     </dict>
   </array>
   <key>uuid</key>
-  <string>82CCD69C-F1B1-4529-B39E-780F91F07006</string>
+  <string>82CCD69C-F1B1-4529-B39E-780F91F07007</string>
 </dict>
 </plist>
