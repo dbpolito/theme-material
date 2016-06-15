@@ -72,6 +72,17 @@
     </dict>
     <dict>
       <key>scope</key>
+      <string>constant.language.this</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>italic</string>
+        <key>foreground</key>
+        <string>#FF8A80</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>scope</key>
       <string>constant.numeric</string>
       <key>settings</key>
       <dict>
